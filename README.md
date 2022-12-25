@@ -6,9 +6,6 @@ of wastes and saving data regarding that in the database of the website.
 Locate those places in the website through the Google Maps which are close to the user's location. Allowing NGOs and authorities to register in the website so that they can get details of those places through automated mail and do the sanitization.
 ## Screenshots
 
-![App Screenshot](https://i.imgur.com/wjeQ2ws.png)
-![App Screenshot](https://i.imgur.com/qX4UhKU.png)
-![App Screenshot](https://i.imgur.com/y1BQtv5.png)
 
 
 
