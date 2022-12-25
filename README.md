@@ -64,6 +64,5 @@ Locate those places in the website through the Google Maps which are close to th
     
 ## Feedback
 
-If you have any feedback, please reach out to us at debroyshayan@gmail.com
 
   
